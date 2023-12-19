@@ -1,6 +1,6 @@
 ### data-collection-challenge
-This is a two part program consisting of two jupyter notebook files, [Title](part_1_mars_news.ipynb)
-and [Title](part_2_mars_weather.ipynb).  
+This is a two part program consisting of two jupyter notebook files, [part_1_mars_news.ipynb](part_1_mars_news.ipynb)
+and [part_2_mars_weather.ipynb](part_2_mars_weather.ipynb).  
 
 ## Part 1 - Web Scraping
 Part 1 scrapes the Mars news site, https://static.bc-edx.com/data/web/mars_news/index.html.  Using Beautiful Soup, it extracts text elements from the page and creates a Python dictionary list to store it in. 
